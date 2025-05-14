@@ -35,7 +35,7 @@ Supports Random Forest, Decision Tree, Linear Regression, and XGBoost with custo
 ## 🚀 Demo
 
 Try the AQI Predictor live!  
-👉 **Deployed App**: [https://aqi-predictor-ai-ml-2025.streamlit.app](https://howzmyair.streamlit.app)
+👉 **Deployed App**: [howzmyair.streamlit.app](https://howzmyair.streamlit.app)
 
 ## 🛠️ Tech Stack
 
